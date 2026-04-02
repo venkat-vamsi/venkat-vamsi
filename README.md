@@ -139,15 +139,22 @@ I am a Software Engineer based in Hyderabad (CS @ GRIET, 9.1 CGPA), obsessed wit
 
 ---
 
-### 📈 GitHub Analytics (Radical Neon Theme)
+### 📈 Engineering Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkat-vamsi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-vamsi&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkat-vamsi&theme=radical&hide_border=true&hide_title=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-vamsi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
+  <a href="https://github.com/venkat-vamsi">
+    <img src="https://github-profile-trophy.vercel.app/?username=venkat-vamsi&theme=radical&row=1&column=6&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/venkat-vamsi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-vamsi&theme=radical&hide_border=true" alt="GitHub Streak" width="50%" />
+  </a>
 </div>
 
 ---
