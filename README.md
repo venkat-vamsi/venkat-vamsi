@@ -111,15 +111,22 @@ I don't just build in isolation; I build under pressure and win.
 
 ---
 
-### 📈 GitHub Analytics (Vibrant Theme)
+### 📈 Engineering Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkat-vamsi&show_icons=true&theme=radical&hide_border=true&cache_seconds=10&random=999" alt="GitHub Stats" width="48%" style="margin: 5px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-vamsi&theme=radical&hide_border=true&random=999" alt="GitHub Streak" width="48%" style="margin: 5px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkat-vamsi&theme=radical&hide_border=true&hide_title=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-vamsi&layout=compact&theme=radical&hide_border=true&cache_seconds=10&random=999" alt="Top Languages" width="50%" style="margin: 5px;" />
+  <a href="https://github.com/venkat-vamsi">
+    <img src="https://github-profile-trophy.vercel.app/?username=venkat-vamsi&theme=radical&row=1&column=6&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/venkat-vamsi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-vamsi&theme=radical&hide_border=true" alt="GitHub Streak" width="50%" />
+  </a>
 </div>
 
 ---
