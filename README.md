@@ -114,12 +114,18 @@ I don't just build in isolation; I build under pressure and win.
 ### 📈 GitHub Analytics (Vibrant Theme)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkat-vamsi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-vamsi&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/venkat-vamsi">
+    <img src="https://github-readme-stats.vercel.app/api?username=venkat-vamsi&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" width="48%" style="margin: 5px;" />
+  </a>
+  <a href="https://github.com/venkat-vamsi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkat-vamsi&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" style="margin: 5px;" />
+  </a>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-vamsi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
+  <a href="https://github.com/venkat-vamsi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-vamsi&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" width="50%" style="margin: 5px;" />
+  </a>
 </div>
 
 ---
@@ -128,7 +134,7 @@ I don't just build in isolation; I build under pressure and win.
 
 <div align="center">
   <img src="https://media.giphy.com/media/xTiTnHvXHHxOTcdmxO/giphy.gif" width="300" alt="Spider-Man Web Swing" style="margin-right: 20px; border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/xT1R9B7cgalypCbRxS/giphy.gif" width="300" alt="F1 Racing" style="border-radius: 10px;" />
+  <img src="https://media.tenor.com/b9JtW56J2v0AAAAC/max-verstappen-red-bull-racing.gif" width="300" alt="F1 Racing" style="border-radius: 10px;" />
 </div>
 
 ---
