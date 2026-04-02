@@ -1,4 +1,4 @@
-<div align="center">
+<img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/d8f3acc4-8d80-4e67-9d46-ffb6c2d394f6" /><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF3366,007AFF&height=250&section=header&text=Vamsi%20Godavarthi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
@@ -145,11 +145,6 @@ I am a Software Engineer based in Hyderabad (CS @ GRIET, 9.1 CGPA), obsessed wit
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkat-vamsi&theme=radical&hide_border=true&hide_title=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/venkat-vamsi">
-    <img src="https://github-profile-trophy.vercel.app/?username=venkat-vamsi&theme=radical&row=1&column=6&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
-  </a>
-</div>
 <br>
 <div align="center">
   <a href="https://github.com/venkat-vamsi">
@@ -159,11 +154,11 @@ I am a Software Engineer based in Hyderabad (CS @ GRIET, 9.1 CGPA), obsessed wit
 
 ---
 
-### 🏎️ Pushing to Production... 🕸️
+### 🏎️ 🕸️
 
 <div align="center">
   <img src="https://media.giphy.com/media/xTiTnHvXHHxOTcdmxO/giphy.gif" width="300" alt="Spider-Man Web Swing" style="margin-right: 20px; border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/X3w860gN33VGA/giphy.gif" width="300" alt="F1 Racing" style="border-radius: 10px;" />
+  <img src="https://tse4.mm.bing.net/th/id/OIP.6e4dQHlYfSpkdNtPfmss_gHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" width="300" alt="F1 Racing" style="border-radius: 10px;" />
 </div>
 
 ---
