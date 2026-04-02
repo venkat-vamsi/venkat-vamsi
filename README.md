@@ -102,8 +102,8 @@ I don't just build in isolation; I build under pressure and win.
       <p><em>⚡ 35% Manual effort reduced</em></p>
     </td>
     <td width="50%">
-      <h3>📅 GRIET Events & NexGenStudy</h3>
-      <p>Centralized event management platform for college-wide access. Concurrently building <b>NexGenStudy</b> (a personalized learning assistant) and <b>ConnectEase</b>.</p>
+      <h3>📅 GRIET Events</h3>
+      <p>Centralized event management platform for college-wide access. Tested accoss 100 students and faculty, and is going to be launched soon.</b>.</p>
       <p><b>Tech:</b> Flutter, Dart, Firebase, REST APIs</p>
       <p><em>⚡ Launching Soon (2026)</em></p>
     </td>
