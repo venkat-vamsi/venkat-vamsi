@@ -14,7 +14,7 @@
 
 ### 🕸️ The Developer Protocol
 
-I am a Software Engineer based in Hyderabad (CS @ GRIET, 9.1 CGPA), obsessed with performance, scalability, and precision. My engineering philosophy is built on two pillars:
+I am a engineering student based in Hyderabad (CS @ GRIET, 9.1 CGPA), obsessed with performance, scalability, and precision. My engineering philosophy is built on two pillars:
 - 🏎️ **Formula 1:** Milliseconds matter. Latency, efficiency, and optimization are the difference between standing on the podium and watching from P4.
 - 🕷️ **Spider-Man:** Responsibility. Every API and service deployed has people depending on it. Clean architecture isn't just aesthetic; it's essential.
 
