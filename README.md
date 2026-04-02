@@ -1,4 +1,4 @@
-<img width="474" height="266" alt="image" src="https://github.com/user-attachments/assets/d8f3acc4-8d80-4e67-9d46-ffb6c2d394f6" /><div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,FF3366,007AFF&height=250&section=header&text=Vamsi%20Godavarthi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
