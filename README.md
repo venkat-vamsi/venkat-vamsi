@@ -158,7 +158,7 @@ I am a Software Engineer based in Hyderabad (CS @ GRIET, 9.1 CGPA), obsessed wit
 
 <div align="center">
   <img src="https://media.giphy.com/media/xTiTnHvXHHxOTcdmxO/giphy.gif" width="300" alt="Spider-Man Web Swing" style="margin-right: 20px; border-radius: 10px;" />
-  <img src="https://tse4.mm.bing.net/th/id/OIP.6e4dQHlYfSpkdNtPfmss_gHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" width="300" alt="F1 Racing" style="border-radius: 10px;" />
+  <img src="https://media.tenor.com/AGRxKDk9PzoAAAAC/redbull-racing.gif" style="border-radius: 10px;" />
 </div>
 
 ---
