@@ -33,13 +33,13 @@ I am a engineering student based in Hyderabad (CS @ GRIET, 9.1 CGPA), obsessed w
   </tr>
   <tr>
     <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,python,aws,nodejs,express&perline=3" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,python,aws&perline=2" /></a>
     </td>
     <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux,flutter,dart,html,css&perline=3" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,javascript,flutter,dart,html,css&perline=3" /></a>
     </td>
     <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mysql,firebase,linux&perline=3" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,mongodb&perline=2" /></a>
     </td>
     <td align="center">
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity,tensorflow,sklearn,unity,ipfs,git&perline=3" /></a>
